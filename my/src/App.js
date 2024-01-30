@@ -27,7 +27,7 @@ function App() {
       <button>0</button>
       <button className="span-two">=</button>
     </div>
-  );
+  )
 }
 
 export default App;
